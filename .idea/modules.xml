@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis-01-basic/mybatis-01-basic.iml" filepath="$PROJECT_DIR$/mybatis-01-basic/mybatis-01-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-01-basic-demo/mybatis-01-basic-demo.iml" filepath="$PROJECT_DIR$/mybatis-01-basic-demo/mybatis-01-basic-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-02-configuration/mybatis-02-configuration.iml" filepath="$PROJECT_DIR$/mybatis-02-configuration/mybatis-02-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-03-mapper/mybatis-03-mapper.iml" filepath="$PROJECT_DIR$/mybatis-03-mapper/mybatis-03-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-04-annotation/mybatis-04-annotation.iml" filepath="$PROJECT_DIR$/mybatis-04-annotation/mybatis-04-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-05-cache/mybatis-05-cache.iml" filepath="$PROJECT_DIR$/mybatis-05-cache/mybatis-05-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-06-transaction/mybatis-06-transaction.iml" filepath="$PROJECT_DIR$/mybatis-06-transaction/mybatis-06-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-07-extra/mybatis-07-extra.iml" filepath="$PROJECT_DIR$/mybatis-07-extra/mybatis-07-extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-08-spring/mybatis-08-spring.iml" filepath="$PROJECT_DIR$/mybatis-08-spring/mybatis-08-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-09-encapsulate/mybatis-09-encapsulate.iml" filepath="$PROJECT_DIR$/mybatis-09-encapsulate/mybatis-09-encapsulate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mybatis-analysis-learning-code.iml" filepath="$PROJECT_DIR$/.idea/mybatis-analysis-learning-code.iml" />
+    </modules>
+  </component>
+</project>
